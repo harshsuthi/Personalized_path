@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sustainable Living Guide</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Sustainable Living Guide</h1>
+    </header>
+
+    <main>
+        <section id="tips">
+            <h2>Personalized Tips</h2>
+            <!-- Content goes here -->
+        </section>
+        <section id="resources">
+            <h2>Local Resources</h2>
+            <!-- Content goes here -->
+        </section>
+        <section id="community">
+            <h2>Community Support</h2>
+            <!-- Content goes here -->
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Sustainable Living Guide</p>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
